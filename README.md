@@ -1,0 +1,1 @@
+# stamp-generate-bot
